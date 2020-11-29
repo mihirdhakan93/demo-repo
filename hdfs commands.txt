@@ -1,3 +1,5 @@
 # Here is the commands for HDFS
 hdfs dfs -ls 
 this is to list out the files under the hadoop default directory 
+hdfs ls 
+also there are yarn-site.xml files which are the properties file
