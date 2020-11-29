@@ -1,0 +1,3 @@
+# Here is the commands for HDFS
+hdfs dfs -ls 
+this is to list out the files under the hadoop default directory 
